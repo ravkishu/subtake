@@ -221,5 +221,15 @@
 		],
 		"fingerprint": [],
 		"nxdomain": true
+	},
+	{
+		"service": "Uberflip",
+		"cname": [
+			"read.uberflip.com"
+		],
+		"fingerprint": [
+			"The URL you've accessed does not provide a hub. Please check the URL and try again."
+		],
+		"nxdomain": false
 	}
 ]
