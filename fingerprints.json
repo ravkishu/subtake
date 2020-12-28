@@ -129,10 +129,10 @@
 	{
 		"service": "Statuspage",
 		"cname": [
-			"statuspage.io"
+			".statuspage.io"
 		],
 		"fingerprint": [
-			"You are being <a href=\"https://www.statuspage.io\">redirected"
+			"This page is currently inactive and can only be viewed by team members"
 		],
 		"nxdomain": false
 	},
@@ -142,7 +142,7 @@
 			".stspg-customer.com"
 		],
 		"fingerprint": [
-			"This page is currently inactive and can only be viewed by team members"
+			"You are being "
 		],
 		"nxdomain": false
 	},
