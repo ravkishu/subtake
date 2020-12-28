@@ -137,6 +137,16 @@
 		"nxdomain": false
 	},
 	{
+		"service": "Statuspage",
+		"cname": [
+			".stspg-customer.com"
+		],
+		"fingerprint": [
+			"This page is currently inactive and can only be viewed by team members"
+		],
+		"nxdomain": false
+	},
+	{
 		"service": "UserVoice",
 		"cname": [
 			"uservoice.com"
