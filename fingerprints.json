@@ -127,7 +127,7 @@
 		"nxdomain": false
 	},
 	{
-		"service": "Statuspage",
+		"service": "Statuspage IO",
 		"cname": [
 			".statuspage.io"
 		],
@@ -143,6 +143,16 @@
 		],
 		"fingerprint": [
 			"You are being "
+		],
+		"nxdomain": false
+	},
+	{
+		"service": "Influitive",
+		"cname": [
+			".influitive.com"
+		],
+		"fingerprint": [
+			"Sorry, we can't find the page you're looking for."
 		],
 		"nxdomain": false
 	},
